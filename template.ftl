@@ -96,9 +96,8 @@
     </footer>
         
         
-    
-  <script src="./js/actions.js"></script>
   <script src="./js/employee_data.js"></script>
+  <script src="./js/actions.js"></script>
   <script src="./js/form_handler.js"></script>
 </body>
 </html>
